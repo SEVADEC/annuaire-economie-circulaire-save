@@ -1351,14 +1351,209 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    1.8105217,
-                    50.9543611,
+                    2.083196,
+                    50.988334,
                     0
                 ]
             },
             "properties": {
-                "name": "TEST oui encore",
-                "description": "Thèmes :<br>- Location<br>- Économie Circulaire <br>- Éco-entreprise<br><br>Description :<br>Location de vans aménagés<br><br>📍 9003 rue des Sycomores, Sangatte<br><br>📞 03 74 39 39 25<br><br>📧 -<br><br>🌐 www.we-van.com"
+                "name": "Chicorée du Nord",
+                "description": "Thème :<br>- Vente en vrac<br><br>Description :<br>Torréfacteur<br><br>📍 493 Rte de l'Étoile, 62215 Oye-Plage<br><br>📞 03 21 82 17 67<br><br>📧 stephanecatrice@chicoreedunord.fr<br><br>🌐 www.chicoreedunord.fr"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    1.7597623,
+                    50.9136238,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Ô Potager des Saveurs",
+                "description": "Thème :<br>- Vente en vrac<br><br>Description : <br>Distributeur automatique de légumes et œufs<br><br>📍 1750 Rte d'Escalles, 62231 Peuplingues<br><br>📞 06 18 34 73 60<br><br>📧 marion.dehestru10@gmail.com<br><br>🌐 https://www.facebook.com/%C3%94-Potager-des-Saveurs-101197432214957/"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    1.9175793,
+                    50.948033,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Lidl Calais St.Exupéry",
+                "description": "Thème :<br>- Vente en vrac<br><br>Description :<br>Espace vrac <br><br>📍 367 Av. Antoine de Saint-Exupéry, 62100 Calais<br><br>📞 0 800 90 03 43<br><br>📧 -<br><br>🌐 www.lidl.fr"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    1.8624664,
+                    50.9379854,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Biocoop Calais St.Pierre",
+                "description": "Thème :<br>- Vente en vrac<br><br>Description :<br>Magasin alimentation bio<br><br>📍 111 Rue de Gutemberg, 62100 Calais<br><br>📞 03 21 35 27 33<br><br>📧 service.clients@biocoop.fr<br><br>🌐 www.biocoopcalais.com"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    1.8495772,
+                    50.9581531,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Vrac'Opale",
+                "description": "Thème :<br>- Vente en vrac<br><br>Description :<br>Épicerie bio<br><br>📍 58 Rue Royale, 62100 Calais<br><br>📞 03 21 00 05 42<br><br>📧 vrac.opale@orange.fr<br><br>🌐 www.facebook.com"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    1.8447274,
+                    50.9462937,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Carrefour City Blériot",
+                "description": "Thème :<br>- Vente en vrac<br><br>Description :<br>Espace vrac<br><br>📍 133 Bd Gambetta, 62100 Calais<br><br>📞 03 21 97 13 27<br><br>📧 - <br><br>🌐 www.carrefour.fr"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    1.8051421,
+                    50.9429128,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Un Autre Chemin",
+                "description": "Thème :<br>- Vente en vrac<br><br>Description :<br>Magasin bio<br><br>📍 Parc de la Française, Rue de Bergnieulles, 62231 Coquelles<br><br>📞 09 67 57 19 51<br><br>📧 camabio.bethune@gmail.com<br><br>🌐 www.unautrechemin.fr"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    1.8095333,
+                    50.9324467,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Carrefour Cité Europe Coquelles",
+                "description": "Thème :<br>- Vente en vrac<br><br>Description :<br>Espace vrac<br><br>📍 Cite De L'Europe, Bd du Kent, 62231 Coquelles<br> <br>📞 03 91 91 02 79<br><br>📧 -<br><br>🌐 www.carrefour.fr"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    1.810406,
+                    50.9072761,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Merlin Eric",
+                "description": "Thème :<br>- Vente en vrac<br><br>Description :<br>Boulangerie<br><br>📍 2906 Rue Principale, 62185 Fréthun<br><br>📞 09 54 89 88 22<br><br>📧 emerlin@laposte.net<br><br>🌐 https://www.facebook.com/boulangerie.patisseriemerlin"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    1.9413076,
+                    50.9474092,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Chez Nano",
+                "description": "Thème :<br>- Vente en vrac<br><br>Description :<br>Épicerie paysanne<br><br>📍 675 Av. de Calais, 62730 Marck<br><br>📞 03 21 36 89 69<br><br>📧 - <br><br>🌐 chez-nano.business.site"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    1.7841048,
+                    50.9158574,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Verger de la Beussingue",
+                "description": "Thème :<br>- Vente en vrac<br><br>Description :<br>Cueillette de pommes<br><br>📍 Rue Tunnel, 62231 Peuplingues<br><br>📞 06 72 13 23 31<br><br>📧 vergerdelabeussingue@orange.fr<br><br>🌐 www.vergerdelabeussingue.com"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.0752471,
+                    50.8407485,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Cueillette de Recques",
+                "description": "Thème :<br>- Vente en vrac<br><br>Description :<br>Distributeur automatique<br><br>📍 Rue du Plouy, 62890 Recques-sur-Hem<br><br>📞 06 32 40 86 88<br><br>📧 cueillettederecques@gmail.com<br><br>🌐 https://www.lecalaisisonyprendgout.com/producteurs/sophie-flahaut<br>https://www.facebook.com/Cueillette-Recques-Sur-Hem-1547697475495257/"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    1.7615447,
+                    50.8773631,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Ô Ptit Poids",
+                "description": "Thème :<br>- Vente en vrac<br><br>Description :<br>Épicerie bio ambulante. Livraison possible en main propre sur le secteur du Calaisis à partir de 25€ d'achat.<br><br>📅 Mercredi après-midi au Jardin Colibri<br><br>📍 1730 Rte de Saint-Inglevert, 62340 Pihen-lès-Guînes<br><br>📞 06 09 17 21 10<br><br>📧 optitpoids@gmail.com<br><br>🌐 https://www.facebook.com/%C3%94-Ptit-Poids-376989212934911/"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    1.8089387,
+                    50.9444007,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Auchan Calais",
+                "description": "Thème :<br>- Vente en vrac<br><br>Description :<br>Espace vrac<br><br>📍 Av. Roger Salengro, 62100 Calais<br> <br>📞 03 21 46 92 92<br><br>📧 -<br><br>🌐 www.auchan.fr<br> https://www.facebook.com/AuchanHypermarcheCalais/"
             }
         }
     ]
