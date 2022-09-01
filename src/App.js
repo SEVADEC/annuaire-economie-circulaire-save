@@ -67,6 +67,11 @@ function App() {
                   : setSelectedRadio(e.target.id)
               }
             >
+              <img
+                className="logo-category"
+                src={index + 1 + ".png"}
+                alt={category}
+              />{" "}
               {category}
               {/* <sup className="numberCategory">{numberCategory[index]}</sup> */}
             </button>
