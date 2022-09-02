@@ -13,7 +13,7 @@ body {
 .leaflet-container {
   margin-top: 340px;
   width: 98%;
-  height: 60%;
+  min-height: 480px;
   border-radius: 20px;
   border: thick double #32a1ce;
   position: absolute !important;
@@ -133,6 +133,7 @@ button.showList :hover {
 ul.list {
     margin-top: -15px;
     width: 98%;
+    min-height: 480px;
     line-height: 1.2em;
     padding: 0;
     overflow: auto;
@@ -433,8 +434,7 @@ img.searchBar {
 
   .leaflet-container {
     margin-top: 370px;
-    width: 98%;
-    height: 60%;
+    width: 98%;    
     border-radius: 20px;
     border: thick double #32a1ce;
     position: absolute !important;
@@ -448,7 +448,6 @@ img.searchBar {
   .leaflet-container {
     margin-top: 330px;
     width: 98%;
-    height: 60%;
     border-radius: 20px;
     border: thick double #32a1ce;
     position: absolute !important;
@@ -462,7 +461,6 @@ img.searchBar {
   .leaflet-container {
     margin-top: 360px;
     width: 98%;
-    height: 60%;
     border-radius: 20px;
     border: thick double #32a1ce;
     position: absolute !important;
@@ -527,7 +525,6 @@ img.searchBar {
   .leaflet-container {
     margin-top: 380px;
     width: 98%;
-    height: 60%;
     border-radius: 20px;
     border: thick double #32a1ce;
     position: absolute !important;
@@ -541,7 +538,6 @@ img.searchBar {
   .leaflet-container {
     margin-top: 420px;
     width: 98%;
-    height: 60%;
     border-radius: 20px;
     border: thick double #32a1ce;
     position: absolute !important;
@@ -555,7 +551,6 @@ img.searchBar {
   .leaflet-container {
     margin-top: 350px;
     width: 98%;
-    height: 60%;
     border-radius: 20px;
     border: thick double #32a1ce;
     position: absolute !important;
@@ -584,7 +579,6 @@ img.logo-category {
   .leaflet-container {
     margin-top: 370px;
     width: 98%;
-    height: 60%;
     border-radius: 20px;
     border: thick double #32a1ce;
     position: absolute !important;
@@ -671,7 +665,6 @@ img.logo-category {
   .leaflet-container {
     margin-top: 390px;
     width: 98%;
-    height: 60%;
     border-radius: 20px;
     border: thick double #32a1ce;
     position: absolute !important;
@@ -685,7 +678,6 @@ img.logo-category {
   .leaflet-container {
     margin-top: 420px;
     width: 98%;
-    height: 60%;
     border-radius: 20px;
     border: thick double #32a1ce;
     position: absolute !important;
