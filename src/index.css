@@ -14,6 +14,7 @@ body {
   margin-top: 340px;
   width: 98%;
   min-height: 480px;
+  height:62%;
   border-radius: 20px;
   border: thick double #32a1ce;
   position: absolute !important;
