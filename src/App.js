@@ -100,7 +100,14 @@ function App() {
         }}
       >
         {" "}
-        <p>{!showList ? "Afficher la liste" : "Afficher la carte"}</p>
+        <p>
+          <img
+            className="logo-liste"
+            src={!showList ? "./liste.png" : "./carte.png"}
+            alt="logo liste"
+          ></img>
+          {/* {!showList ? "Afficher la liste" : "Afficher la carte"} */}
+        </p>{" "}
       </button>
       {!showList ? (
         <Map

@@ -68,6 +68,11 @@ img.logo-category {
   height: 30px;
 }
 
+img.logo-liste {
+  width: 45px;
+  height: 45px;
+}
+
 button.showcontact {
   cursor: pointer;
   padding: 0;
@@ -82,6 +87,7 @@ button.showcontact {
     width: 55px;
 }
 
+
 button.showList {
   cursor: pointer;
   padding: 0;
@@ -93,8 +99,8 @@ button.showList {
   background-color: rgb(6, 141, 107);
   box-shadow: 0px 4px 10px rgb(0 0 0 / 45%);
   height: 55px;
-    width: 100px;
-    font-size: 17px;
+    width: 55px;
+    font-size: 15px;
     font-weight: bold;
     color: white;
     
